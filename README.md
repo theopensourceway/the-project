@@ -1,2 +1,2 @@
-# theproject
-*The Project* is for all things meta-umbrella-organizational-community_of_practice 
+# The Project
+As part of the Open Source Way project, this repository is for all things meta-umbrella-organizational.
