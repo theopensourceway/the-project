@@ -1,0 +1,25 @@
+Fellow Open Source Practitioners,
+
+We are pleased to announce:
+
+The Open Source Way 2.0 is ready for you and your pen and your paper—let the writing begin!
+
+The initial sections and chapters have been finalized in a process that included a Birds of Feather session at FOSDEM 2020 in Brussels and a workshop at SCaLE 18x in Pasadena.
+
+https://github.com/theopensourceway/guidebook/blob/master/OUTLINE.adoc
+
+What chapter(s) are you interested in writing?
+
+You can express your interest in writing a chapter, ask questions, and share ideas including your initial outline by commenting on the issue that is associated with the chapter. Take a look in the "To Assign" column to find the issues, which are tagged by section of the guide:
+
+https://github.com/theopensourceway/guidebook/projects/1
+
+For your general interest and broader discussions, our contributor forum/mailing list is the perfect place:
+
+https://lists.theopensourceway.org/archives/list/contrib@theopensourceway.org/
+
+The Editorial Team would like to hear about your interest (via issue and/or mailing list) and see your initial chapter outline by 07 April, with an eye toward a December 2020 guide release.
+
+https://github.com/theopensourceway/guidebook/wiki/2.0-Release-Schedule
+
+If you are interested in more than writing--such as reviewing, editing, content tooling, and so forth--please join us on the contrib@theopensourceway.org forum/mailing list and let us know your interest.
