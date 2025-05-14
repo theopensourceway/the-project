@@ -11,7 +11,7 @@ This material has been assigned to an author (or authors). These authors have no
 ### 3. Drafting
 This material is under construction. Authors are composing it.
 
-### 4. Draft Review
+### 4. Draft Ready
 This material represents a complete draft ready for editorial review.
 
 ### 5. Development Edit
@@ -24,7 +24,7 @@ This material requires examination by a subject matter expert. Authors and edito
 This material requires basic copy editing, which may include: standardizing voice and tone, eliminating grammatical issues, ensuring consistent punctuation, etc.
 
 ### 8. Technical Edit
-This material requires markup in Asciidoc.
+This material requires markup and formatting for publication.
 
 ### 9. Final Review
 Authors, editors, and anyone else working on the project is reviewing the material one final time.
@@ -39,7 +39,7 @@ Material is complete. Any proposed edits or additions should be submitted as new
 - [ ] Authors have suggested an outline of proposed material
 - [ ] One or more editors have reviewed and and approved the authors' proposed outline
 
-### To enter Draft Review
+### To enter Draft Ready
 
 - [ ] Drafted material adequately corresponds to proposed outline
 - [ ] Author has indicated that draft is ready for review by an editor
@@ -78,23 +78,3 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 - [ ] Material has been proofread one final time for spelling and grammatical errors
 - [ ] Authors have acknowledged and/or approved all final changes
-
-## Explanation of headers in .adoc files
-
-Each Asciidoc (.adoc) file has a standard header following this format:
-
-> = Chapter Title Case Like This
-> // Authors: Firstname Lastname <firstname.lastname@example.com>, Their Coauthor <their.coauthor@example.com>
-> // Updated: YYYY-MM-DD
-> // Versions: [1.99|2.0|X.Y]
-> // Status: [DRAFT|PUBLISHED]
-
-The first line is an H1 and title of the chapter, as it should appear in the generated Table of Contents.
-
-The second line lists one or more authors and their email addresses. This line is commented out so that it doesn't appear at the top of the chapter, which currently creates some confusion with the built document.
-
-Third line is the latest date of this file.
-
-Fourth line specifies which version or versions this file is associated with.
-
-Fifth line defines if this file is still a draft or should be collected for publishing by any building-and-publishing tools.
