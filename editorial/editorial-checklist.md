@@ -1,4 +1,4 @@
-# Open Source Way Guidebook Editorial Process
+# Open Source Way Guidebook Editorial Checklist
 
 ## Explanation of editorial phases
 
